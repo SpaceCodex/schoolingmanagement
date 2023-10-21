@@ -1,11 +1,11 @@
 Student List - Page
--------------------
-
+------------------- New Admission 2021
 1. Manoj
 2. Roshi
 3. Mihir
 4. Veer
 5. Harsha
+------------------- New Admission 2022
 6. Barsa
--------------------
 7. badel
+8. Kush
