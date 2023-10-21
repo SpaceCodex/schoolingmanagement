@@ -6,3 +6,4 @@ Student List - Page
 3. Mihir
 4. Veer
 5. Harsha
+6. Barsa
